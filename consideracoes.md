@@ -1,0 +1,1 @@
+essas são algumas considerações

@@ -1,1 +1,1 @@
-Projeto que ensina a usar o Git. àçãoá
+Projeto que ensina a usar o Git.
